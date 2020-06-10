@@ -1,0 +1,35 @@
+.myclass{
+    font-style: italic;
+    color:blue;
+    
+}
+
+  span {font-weight: bold; 
+    color:rgb(226, 21, 55);
+    
+}  
+
+ul {list-style:none ;}
+.outer{
+    border: 7px solid blue;
+    border-style:double;
+    padding: 20px;
+    background-color: rgb(129, 233, 134);
+    display:flex;
+    flex-wrap:wrap;
+    width:300px;
+    height:700px;
+}
+.imageouter{
+    border:1px solid black;
+}
+.matter{
+    border: 2px solid rgb(141, 16, 16);
+    margin: 10px;
+    padding:0.5em;
+    }
+h2{
+    font-family:cursive ;
+
+    
+}
